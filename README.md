@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+This repository contains all of the exercise and project that I have practiced to perform fundamental actuarial analysis. Particularly I am working on: Power BI, 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+## Table of contents
+Power BI
+
+## References
+
+
 <!--
 **tranlinh1825/tranlinh1825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
