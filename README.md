@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 This repository contains all of the exercise and project that I have practiced to perform fundamental actuarial analysis. Particularly I am working on: Power BI, 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tranlinh1825/)   tranlinh1825@gmail.com
 
 ## Table of contents
 Power BI
