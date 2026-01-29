@@ -3,6 +3,7 @@
 <!--
 **tranlinh1825/tranlinh1825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+This repository contains all of the exercise and project that I have practiced to perform fundamental actuarial analysis
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
