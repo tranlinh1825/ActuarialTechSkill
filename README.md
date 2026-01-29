@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+My name is ✨ _special_ ✨
 This repository contains all of the exercise and project that I have practiced to perform fundamental actuarial analysis. Particularly I am working on: Power BI, 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tranlinh1825/)   tranlinh1825@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tranlinh1825/)   OR [Email](tranlinh1825@gmail.com)
 
 ## Table of contents
 Power BI
